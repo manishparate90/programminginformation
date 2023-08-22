@@ -1,6 +1,5 @@
 var typed = new Typed(".multiple-text",{
-	strings: ["C" , "C++",
-	"Android Developer" , "Web developer", "Python" , "Reactnative" , "Html-Css","JavaScript", "Flutter"],
+	strings: ["C programming", "C++ programming", "Java", "XML", "HTML & CSS", "JAVAScript" , "PHP", "Python", "Android Developer" , "Web developer", "ReactNative" , "Front-end developer" ],
 	 typepseed: 1500,
 	 backspeed: 1000,
 	 backDelay: 1000,
